@@ -2,7 +2,7 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
-│  networking · infrastructure · security · linux           │
+│  networking · infrastructure · security · linux          │
 │                                                          │
 │  building things, breaking things, figuring out why      │
 │  they broke.                                             │
